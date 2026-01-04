@@ -152,6 +152,7 @@ Berikut adalah hasil pengujian tampilan aplikasi:
 
 ---
 
+## 🚀 Cara Menjalankan Aplikasi
 1. Buka project menggunakan **Android Studio**
 2. Pastikan:
     - Gradle sudah sinkron
