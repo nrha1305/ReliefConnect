@@ -1,0 +1,13 @@
+package com.reliefconnect.app.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val GreenPrimary = Color(0xFF2E7D32)
+val GreenSecondary = Color(0xFF81C784)
+
+val BackgroundLight = Color(0xFFF9F9F9)
+val SurfaceLight = Color.White
+
+val TextPrimary = Color(0xFF1C1B1F)
+
+val ErrorRed = Color(0xFFD32F2F)
